@@ -1,0 +1,38 @@
+.modal-dialog{
+  position: fixed;
+  display: block;
+  left: 25%;
+  top: 40%;
+  border: 4px solid black;
+  width: 45%;
+  height: auto;
+  background-color: #fff;
+}
+
+.modal-header{
+  background-color: #808080;
+  padding: 7px 0 7px 10px;
+}
+
+.modal-title{
+  color: #fff;
+  font-family: 'Times New Roman', serif;
+  font-size: 24px;
+}
+
+.modal-content{
+  padding: 0 20px 10px 10px;
+}
+
+.modal-buttons{
+  text-align: right;
+  padding-bottom: 4px;
+  padding-right: 6px;
+}
+
+button{
+  background-color: #fff;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  padding: 1px 6px;
+}
